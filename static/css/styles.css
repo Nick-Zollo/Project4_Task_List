@@ -1,0 +1,13 @@
+body{
+    background-color: #fafafa;
+}
+
+.completed {
+    background-color: #eeeeee;
+}
+.completed_line {
+    text-decoration: line-through;
+}
+.not-completed {
+    background-color: white;
+}
